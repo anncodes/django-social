@@ -1,5 +1,5 @@
 # Dwitter
-## Social Network dveloped with Django
+## Social Network developed with Django
 
 Credit to Real Python Tutorials
  

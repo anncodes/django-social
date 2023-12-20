@@ -1,5 +1,5 @@
 # Dwitter
-## Mini Social Network developed with Django
+## Mini Social Network Developed with Django
 
 <br>
 Dwitter- Mini Social Network is a small-scale social networking web application built with Django. It is developed as part of the project to explore and differentiate between Flask and Django, two popular Python web frameworks. This project aims to demonstrate the power and capabilities of Django in building web applications.
